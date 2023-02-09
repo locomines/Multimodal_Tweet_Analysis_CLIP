@@ -4,6 +4,10 @@ The repository for the splits and code used in the paper
 > Gullal S. Cheema, Sherzod Hakimov, Eric Müller-Budack and Ralph Ewerth “A Fair and Comprehensive Comparison of Multimodal Tweet Sentiment Analysis Methods“, 
 *Proceedings of the 2021 Workshop on Multi-Modal Pre-Training for Multimedia Understanding (MMPT ’21), August 21, 2021,Taipei, Taiwan.
 
+
+**Ce README est directement repris depuis le repo github initial lié à l'article. J'ai réussi à faire tourner le code en installant les packages nécessaires au fur et à mesure. Utiliser le fichier 'environment.yml' ne fonctionne pas. Il faut donc installer tout comme dans le fichier 'installing_file.ipynb'.**
+
+
 Paper is available on arXiv: https://arxiv.org/abs/2106.08829
 
 ## Data and Environment
